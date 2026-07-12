@@ -8,21 +8,23 @@
 
 <img src="https://img.shields.io/badge/🎓_University-FAST_NUCES-6D28D9?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/📚_Semester-3rd-6D28D9?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_Location-Peshawar,_Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍_Location-Faisalabad,_Pakistan-6D28D9?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
 <a href="#-connect-with-me">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+ <a href="https://s-huzaifa911.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/huzaifa-bin-usman">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://linkedin.com/in/huzaifa-bin-usman" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:huzaifabinusman911@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/s-huzaifa911">
-  <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -41,7 +43,7 @@
 name: "Huzaifa Bin Usman"
 role: "BS Computer Science Student @ FAST NUCES"
 semester: "3rd Semester (Entering)"
-location: "Peshawar, Pakistan"
+location: "Faisalabad, Pakistan"
 focus: ["Artificial Intelligence", "AI Agent Development", "Backend Development"]
 ```
 
@@ -330,24 +332,26 @@ Open To:
 <div align="center">
 
 <a href="mailto:huzaifabinusman911@gmail.com">
-  <img src="https://img.shields.io/badge/Email-huzaifabinusman911%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-huzaifabinusman911%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
 
 <a href="https://linkedin.com/in/huzaifa-bin-usman">
-  <img src="https://img.shields.io/badge/LinkedIn-huzaifa--bin--usman-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-huzaifa--bin--usman-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
 
 <a href="https://github.com/s-huzaifa911">
-  <img src="https://img.shields.io/badge/GitHub-s--huzaifa911-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-s--huzaifa911-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://s-huzaifa911.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
